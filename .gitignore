@@ -1,0 +1,4 @@
+.*
+!.gitignore
+Devel-SelfStubber-*
+Debian_CPANTS.txt
