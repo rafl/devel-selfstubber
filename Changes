@@ -1,3 +1,6 @@
+1.05  Wed, 15 Dec 2010 20:25:23 +0100
+  * Install to the right part of @INC on old perls.
+
 1.04  Sat, 11 Dec 2010 15:27:23 +0100
   * Depend on SelfLoader 1.0903, which is the first version that ensures text
     after __END__ survives, which we need for our tests to pass. This
